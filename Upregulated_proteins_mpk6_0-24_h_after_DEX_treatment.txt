@@ -1,0 +1,50 @@
+Protein code	Description
+AT1G02930.1	ATGSTF6, GST1, ERD11, ATGSTF3, GSTF6, ATGST1 - glutathione S-transferase 6 
+AT3G24503.1	ALDH2C4, ALDH1A, REF1 - aldehyde dehydrogenase 2C4 
+AT1G02920.1	ATGSTF7, GST11, ATGSTF8, GSTF7, ATGST11 - glutathione S-transferase 7 
+AT1G21110.1	O-methyltransferase family protein 
+AT1G18210.1	Calcium-binding EF-hand family protein 
+AT4G02520.1	ATGSTF2, ATPM24.1, ATPM24, GST2, GSTF2 - glutathione S-transferase PHI 2 
+AT3G15356.1	Legume lectin family protein 
+AT1G37130.1	NIA2, B29, NIA2-1, CHL3, NR, NR2, ATNR2 - nitrate reductase 2 
+AT3G54640.1	TSA1, TRP3 - tryptophan synthase alpha chain 
+AT1G05010.1	EFE, ACO4, EAT1 - ethylene-forming enzyme 
+AT4G33010.1	AtGLDP1, GLDP1 - glycine decarboxylase P-protein 1 
+AT4G30530.1	Class I glutamine amidotransferase-like superfamily protein 
+AT5G52920.1	PKP1, PKP-BETA1, PKP2 - plastidic pyruvate kinase beta subunit 1 
+AT5G38830.1	Cysteinyl-tRNA synthetase, class Ia family protein 
+AT1G30510.1	ATRFNR2, RFNR2 - root FNR 2 
+AT1G08830.1	CSD1 - copper/zinc superoxide dismutase 1 
+AT3G19010.1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein 
+AT5G24490.1	30S ribosomal protein, putative 
+AT3G04720.1	PR4, HEL, PR-4 - pathogenesis-related 4 
+AT1G76030.1	ATPase, V1 complex, subunit B protein 
+AT5G54430.1	ATPHOS32, PHOS32 - Adenine nucleotide alpha hydrolases-like superfamily protein 
+AT5G17380.1	Thiamine pyrophosphate dependent pyruvate decarboxylase family protein 
+AT1G05190.1	emb2394 - Ribosomal protein L6 family 
+AT1G73600.1	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 
+AT3G22860.1	TIF3C2, ATEIF3C-2, EIF3C-2, ATTIF3C2 - eukaryotic translation initiation factor 3 subunit C2 
+AT5G08280.1	HEMC - hydroxymethylbilane synthase 
+AT2G39730.1	RCA - rubisco activase 
+AT4G26900.1	AT-HF, HISN4 - HIS HF 
+AT3G16530.1	Legume lectin family protein 
+AT3G04120.1	GAPC, GAPC-1, GAPC1 - glyceraldehyde-3-phosphate dehydrogenase C subunit 1 
+AT2G20260.1	PSAE-2 - photosystem I subunit E-2 
+AT5G51830.1	pfkB-like carbohydrate kinase family protein 
+AT3G14415.1	Aldolase-type TIM barrel family protein 
+AT2G41160.1	Ubiquitin-associated (UBA) protein 
+AT2G25450.1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein 
+AT3G28940.1	AIG2-like (avirulence induced gene) family protein 
+AT4G10300.1	RmlC-like cupins superfamily protein 
+AT3G44310.1	NIT1, ATNIT1, NITI - nitrilase 1 
+AT1G53580.1	GLX2-3, ETHE1, GLY3 - glyoxalase II  3 
+AT3G46970.1	ATPHS2, PHS2 - alpha-glucan phosphorylase 2 
+AT3G22200.1	POP2, GABA-T, HER1 - Pyridoxal phosphate (PLP)-dependent transferases superfamily protein 
+AT1G67090.1	RBCS1A - ribulose bisphosphate carboxylase small chain 1A 
+AT5G30510.1	RPS1, ARRPS1 - ribosomal protein S1 
+AT1G19130.1	unknown protein
+AT2G33845.1	Nucleic acid-binding, OB-fold-like protein 
+AT5G37600.1	ATGSR1, GLN1;1, GSR 1, ATGLN1;1 - glutamine synthase clone R1 
+AT1G08200.1	AXS2 - UDP-D-apiose/UDP-D-xylose synthase 2 
+AT4G01610.1	Cysteine proteinases superfamily protein 
+AT4G00490.1	BAM2, BMY9 - beta-amylase 2 

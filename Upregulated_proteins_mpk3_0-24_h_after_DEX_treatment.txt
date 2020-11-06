@@ -1,0 +1,412 @@
+Protein code	Description
+AT1G30700.1	FAD-binding Berberine family protein
+AT5G48540.1	receptor-like protein kinase-related family protein
+AT1G02920.1	ATGSTF7, GST11, ATGSTF8, GSTF7, ATGST11 - glutathione S-transferase 7
+AT5G38900.1	Thioredoxin superfamily protein
+AT1G24190.1	SIN3, ATSIN3, SNL3 - SIN3-like 3
+AT1G02930.1	ATGSTF6, GST1, ERD11, ATGSTF3, GSTF6, ATGST1 - glutathione S-transferase 6
+AT5G39050.1	HXXXD-type acyl-transferase family protein
+AT2G04400.1	Aldolase-type TIM barrel family protein
+AT2G43590.1	Chitinase family protein
+AT5G54500.1	FQR1 - flavodoxin-like quinone reductase 1
+AT3G12580.1	HSP70, ATHSP70 - heat shock protein 70
+AT5G05730.1	ASA1, TRP5, AMT1, WEI2, JDL1 - anthranilate synthase alpha subunit 1
+AT3G24503.1	ALDH2C4, ALDH1A, REF1 - aldehyde dehydrogenase 2C4
+AT1G65970.1	TPX2 - thioredoxin-dependent peroxidase 2
+AT5G17990.1	TRP1, pat1 - tryptophan biosynthesis 1
+AT2G29350.1	SAG13 - senescence-associated gene 13
+AT4G02520.1	ATGSTF2, ATPM24.1, ATPM24, GST2, GSTF2 - glutathione S-transferase PHI 2
+AT3G21220.1	ATMKK5, ATMAP2K_ALPHA, MAP2K_A, MKK5, ATMEK5, MEK5 - MAP kinase kinase 5
+AT3G54640.1	TSA1, TRP3 - tryptophan synthase alpha chain
+AT2G02010.1	GAD4 - glutamate decarboxylase 4
+AT2G24200.1	Cytosol aminopeptidase family protein
+AT4G36380.1	ROT3 - Cytochrome P450 superfamily protein
+AT5G25980.2	TGG2, BGLU37 - glucoside glucohydrolase 2
+AT1G23730.1	ATBCA3, BCA3 - beta carbonic anhydrase 3
+AT2G38860.1	YLS5 - Class I glutamine amidotransferase-like superfamily protein
+AT5G54810.1	TSB1, TRPB, TRP2, ATTSB1 - tryptophan synthase beta-subunit 1
+AT5G11670.1	ATNADP-ME2, NADP-ME2 - NADP-malic enzyme 2
+AT1G21130.1	O-methyltransferase family protein
+AT4G12720.1	AtNUDT7, GFG1, NUDT7, ATNUDX7 - MutT/nudix family protein
+AT2G43570.1	CHI - chitinase, putative
+AT5G63680.1	Pyruvate kinase family protein
+AT2G36580.1	Pyruvate kinase family protein
+AT4G37910.1	mtHsc70-1 - mitochondrial heat shock protein 70-1
+AT3G14990.1	Class I glutamine amidotransferase-like superfamily protein
+AT3G16530.1	Legume lectin family protein
+AT4G35630.1	PSAT - phosphoserine aminotransferase
+AT5G13200.1	GRAM domain family protein
+AT4G26970.1	ACO2 - aconitase 2
+AT5G56350.1	Pyruvate kinase family protein
+AT3G01830.1	Calcium-binding EF-hand family protein
+AT3G15356.1	Legume lectin family protein
+AT4G31210.1	DNA topoisomerase, type IA, core
+AT4G20830.1	FAD-binding Berberine family protein
+AT3G09840.1	CDC48, ATCDC48, CDC48A - cell division cycle 48
+AT3G28930.1	AIG2 - AIG2-like (avirulence induced gene) family protein
+AT2G45220.1	Plant invertase/pectin methylesterase inhibitor superfamily
+AT5G17380.1	Thiamine pyrophosphate dependent pyruvate decarboxylase family protein
+AT5G59420.1	ORP3C - OSBP(oxysterol binding protein)-related protein 3C
+AT2G14610.1	PR1, PR 1, ATPR1 - pathogenesis-related gene 1
+AT2G17420.1	NTRA, ATNTRA, NTR2 - NADPH-dependent thioredoxin reductase A
+AT1G75040.1	PR5, PR-5 - pathogenesis-related gene 5
+AT1G65980.1	TPX1 - thioredoxin-dependent peroxidase 1
+AT3G09440.1	Heat shock protein 70 (Hsp 70) family protein
+AT5G36880.2	ACS - acetyl-CoA synthetase
+AT2G37760.1	NAD(P)-linked oxidoreductase superfamily protein
+AT3G02360.1	6-phosphogluconate dehydrogenase family protein
+AT1G45000.2	AAA-type ATPase family protein
+AT5G42790.1	PAF1, ATPSM30, ARS5 - proteasome alpha subunit F1
+AT3G46290.1	HERK1 - hercules receptor kinase 1
+AT3G05530.1	RPT5A, ATS6A.2 - regulatory particle triple-A ATPase 5A
+AT3G22060.1	Receptor-like protein kinase-related family protein
+AT4G38630.1	RPN10, MCB1, ATMCB1, MBP1 - regulatory particle non-ATPase 10
+AT2G20610.1	SUR1, HLS3, RTY, ALF1, RTY1 - Tyrosine transaminase family protein
+AT5G59890.1	ADF4, ATADF4 - actin depolymerizing factor 4
+AT2G20580.1	RPN1A, ATRPN1A - 26S proteasome regulatory subunit S2 1A
+AT4G20780.1	CML42 - calmodulin like 42
+AT4G29040.1	RPT2a - regulatory particle AAA-ATPase 2A
+AT1G77510.1	ATPDIL1-2, PDI6, ATPDI6, PDIL1-2 - PDI-like 1-2
+AT5G03630.1	ATMDAR2 - Pyridine nucleotide-disulphide oxidoreductase family protein
+AT2G33150.1	PKT3, PED1, KAT2 - peroxisomal 3-ketoacyl-CoA thiolase 3
+AT3G49120.1	ATPERX34, PERX34, PRXCB, ATPCB, PRX34 - peroxidase CB
+AT3G19010.1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+AT4G16260.1	Glycosyl hydrolase superfamily protein
+AT3G51160.1	MUR1, MUR_1, GMD2 - NAD(P)-binding Rossmann-fold superfamily protein
+AT3G48890.1	ATMP2, ATMAPR3, MSBP2, MAPR3 - membrane-associated progesterone binding protein 3
+AT5G37600.1	ATGSR1, GLN1;1, GSR 1, ATGLN1;1 - glutamine synthase clone R1
+AT1G64520.1	RPN12a - regulatory particle non-ATPase 12A
+AT2G30110.1	ATUBA1, MOS5, UBA1 - ubiquitin-activating enzyme 1
+AT3G19480.1	D-3-phosphoglycerate dehydrogenase
+AT3G06860.1	MFP2, ATMFP2 - multifunctional protein 2
+AT1G05010.1	EFE, ACO4, EAT1 - ethylene-forming enzyme
+AT5G66780.1	unknown protein; Has 1807 Blast hits to 1807 proteins in 277 species: Archae - 0; Bacteria - 0; Metazoa - 736; Fungi - 347; Plants - 385; Viruses - 0; Other Eukaryotes - 339 (source: NCBI BLink).
+AT3G04720.1	PR4, HEL, PR-4 - pathogenesis-related 4
+AT4G30530.1	Class I glutamine amidotransferase-like superfamily protein
+AT3G55410.1	2-oxoglutarate dehydrogenase, E1 component
+AT5G11520.1	ASP3, YLS4 - aspartate aminotransferase 3
+AT4G32760.1	ENTH/VHS/GAT family protein
+AT1G78570.1	RHM1, ROL1, ATRHM1 - rhamnose biosynthesis 1
+AT3G46440.1	UXS5 - UDP-XYL synthase 5
+AT1G26380.1	FAD-binding Berberine family protein
+AT1G23190.1	PGM3 - Phosphoglucomutase/phosphomannomutase family protein
+AT1G16470.1	PAB1 - proteasome subunit PAB1
+AT3G14400.1	UBP25 - ubiquitin-specific protease 25
+AT5G20960.1	AAO1, AO1, ATAO, AT-AO1, AOalpha, AtAO1 - aldehyde oxidase 1
+AT3G52880.1	ATMDAR1, MDAR1 - monodehydroascorbate reductase 1
+AT2G05840.1	PAA2 - 20S proteasome subunit PAA2
+AT1G22400.1	UGT85A1, ATUGT85A1 - UDP-Glycosyltransferase superfamily protein
+AT1G24100.1	UGT74B1 - UDP-glucosyl transferase 74B1
+AT2G21620.1	RD2 - Adenine nucleotide alpha hydrolases-like superfamily protein
+AT3G03650.1	EDA5 - Exostosin family protein
+AT3G52930.1	Aldolase superfamily protein
+AT1G78380.1	ATGSTU19, GST8, GSTU19 - glutathione S-transferase TAU 19
+AT5G51830.1	pfkB-like carbohydrate kinase family protein
+AT1G78900.1	VHA-A - vacuolar ATP synthase subunit A
+AT3G28940.1	AIG2-like (avirulence induced gene) family protein
+AT4G21580.1	oxidoreductase, zinc-binding dehydrogenase family protein
+AT1G76140.1	Prolyl oligopeptidase family protein
+AT3G17390.1	MTO3, SAMS3, MAT4 - S-adenosylmethionine synthetase family protein
+AT2G20420.1	ATP citrate lyase (ACL) family protein
+AT2G47510.1	FUM1 - fumarase 1
+AT3G22890.1	APS1 - ATP sulfurylase 1
+AT4G34200.1	EDA9 - D-3-phosphoglycerate dehydrogenase
+AT1G53750.1	RPT1A - regulatory particle triple-A 1A
+AT2G32240.1	unknown protein
+AT4G26300.1	emb1027 - Arginyl-tRNA synthetase, class Ic
+AT3G61440.1	ATCYSC1, ARATH;BSAS3;1, CYSC1 - cysteine synthase C1
+AT2G31390.1	pfkB-like carbohydrate kinase family protein
+AT4G01370.1	ATMPK4, MPK4 - MAP kinase 4
+AT3G13790.1	ATCWINV1, ATBFRUCT1 - Glycosyl hydrolases family 32 protein
+AT5G54160.1	ATOMT1, OMT1 - O-methyltransferase 1
+AT2G33210.1	HSP60-2 - heat shock protein 60-2
+AT5G19990.1	RPT6A, ATSUG1 - regulatory particle triple-A ATPase 6A
+AT2G43820.1	GT, UGT74F2, ATSAGT1, SGT1, SAGT1 - UDP-glucosyltransferase 74F2
+AT4G35830.1	ACO1 - aconitase 1
+AT3G48000.1	ALDH2B4, ALDH2, ALDH2A - aldehyde dehydrogenase 2B4
+AT1G74100.1	SOT16, ATSOT16, CORI-7, ATST5A - sulfotransferase 16
+AT5G07470.1	PMSR3, ATMSRA3 - peptidemethionine sulfoxide reductase 3
+AT1G54000.1	GDSL-like Lipase/Acylhydrolase superfamily protein
+AT4G24820.1	26S proteasome, regulatory subunit Rpn7;Proteasome component (PCI) domain
+AT5G17000.1	Zinc-binding dehydrogenase family protein
+AT2G21060.1	ATGRP2B, ATCSP4, GRP2B - glycine-rich protein 2B
+AT1G02500.1	SAM1, SAM-1, MAT1, AtSAM1 - S-adenosylmethionine synthetase 1
+AT5G57890.1	Glutamine amidotransferase type 1 family protein
+AT1G51760.1	IAR3, JR3 - peptidase M20/M25/M40 family protein
+AT1G74590.1	ATGSTU10, GSTU10 - glutathione S-transferase TAU 10
+AT2G44350.1	ATCS, CSY4 - Citrate synthase family protein
+AT4G15530.1	PPDK - pyruvate orthophosphate dikinase
+AT2G44490.1	PEN2, BGLU26 - Glycosyl hydrolase superfamily protein
+AT1G17290.1	AlaAT1 - alanine aminotransferas
+AT1G18210.1	Calcium-binding EF-hand family protein
+AT1G79750.1	ATNADP-ME4, NADP-ME4 - NADP-malic enzyme 4
+AT5G40370.1	Glutaredoxin family protein
+AT1G02335.1	GL22 - germin-like protein subfamily 2 member 2 precursor
+AT2G16290.1	F-box family protein with a domain of unknown function (DUF295)
+AT5G13420.1	Aldolase-type TIM barrel family protein
+AT5G58290.1	RPT3 - regulatory particle triple-A ATPase 3
+AT1G75060.1	unknown protein
+AT5G64120.1	Peroxidase superfamily protein
+AT1G21750.1	ATPDIL1-1, ATPDI5, PDI5, PDIL1-1 - PDI-like 1-1
+AT3G02520.1	GRF7, GF14 NU - general regulatory factor 7
+AT2G17200.1	DSK2 - ubiquitin family protein
+AT4G32924.1	unknown protein; Has 30201 Blast hits to 17322 proteins in 780 species: Archae - 12; Bacteria - 1396; Metazoa - 17338; Fungi - 3422; Plants - 5037; Viruses - 0; Other Eukaryotes - 2996 (source: NCBI BLink).
+AT1G73060.1	LPA3 - Low  PSII Accumulation 3
+AT2G02390.3	ATGSTZ1, GST18, GSTZ1 - glutathione S-transferase zeta 1
+AT5G61760.1	ATIPK2BETA, IPK2B, IPK2BETA - inositol polyphosphate kinase 2 beta
+AT4G25900.1	Galactose mutarotase-like superfamily protein
+AT4G03080.1	BSL1 - BRI1 suppressor 1 (BSU1)-like 1
+AT5G19550.1	ASP2, AAT2 - aspartate aminotransferase 2
+AT5G23540.1	Mov34/MPN/PAD-1 family protein
+AT1G78850.1	D-mannose binding lectin protein with Apple-like carbohydrate-binding domain
+AT1G53310.1	ATPPC1, PEPC1, ATPEPC1, PPC1 - phosphoenolpyruvate carboxylase 1
+AT1G28120.1	unknown protein
+AT1G79550.1	PGK - phosphoglycerate kinase
+AT5G15650.1	RGP2, ATRGP2 - reversibly glycosylated polypeptide 2
+AT5G52810.1	NAD(P)-binding Rossmann-fold superfamily protein
+AT5G15450.1	APG6, CLPB3, CLPB-P - casein lytic proteinase B3
+AT3G02090.1	MPPBETA - Insulinase (Peptidase family M16) protein
+AT5G20230.1	ATBCB, BCB, SAG14 - blue-copper-binding protein
+AT5G08300.1	Succinyl-CoA ligase, alpha subunit
+AT1G70730.1	PGM2 - Phosphoglucomutase/phosphomannomutase family protein
+AT5G27380.1	GSH2, GSHB - glutathione synthetase 2
+AT4G26910.1	Dihydrolipoamide succinyltransferase
+AT5G54960.1	PDC2 - pyruvate decarboxylase-2
+AT5G59540.1	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein
+AT4G16760.1	ACX1, ATACX1 - acyl-CoA oxidase 1
+AT3G57410.1	VLN3, ATVLN3 - villin 3
+AT1G23310.1	GGT1, AOAT1, GGAT1 - glutamate:glyoxylate aminotransferase
+AT1G79340.1	AtMC4, MC4 - metacaspase 4
+AT1G06290.1	ACX3, ATACX3 - acyl-CoA oxidase 3
+AT1G09430.1	ACLA-3 - ATP-citrate lyase A-3
+AT1G17330.1	Metal-dependent phosphohydrolase
+AT1G53850.1	PAE1, ATPAE1 - 20S proteasome alpha subunit E1
+AT5G16420.1	Pentatricopeptide repeat (PPR-like) superfamily protein
+AT3G24170.1	ATGR1, GR1 - glutathione-disulfide reductase
+AT3G56190.1	ALPHA-SNAP2, ASNAP - alpha-soluble NSF attachment protein 2
+AT5G60160.1	Zn-dependent exopeptidases superfamily protein
+AT3G06050.1	PRXIIF, ATPRXIIF - peroxiredoxin IIF
+AT1G51710.2	UBP6 - ubiquitin-specific protease 6
+AT4G33090.1	APM1, ATAPM1 - aminopeptidase M1
+AT4G02930.1	GTP binding Elongation factor Tu family protein
+AT3G47810.1	MAG1, VPS29, ATVPS29 - Calcineurin-like metallo-phosphoesterase superfamily protein
+AT5G45890.1	SAG12 - senescence-associated gene 12
+AT1G75270.1	DHAR2 - dehydroascorbate reductase 2
+AT1G33590.1	Leucine-rich repeat (LRR) family protein
+AT3G48170.1	ALDH10A9 - aldehyde dehydrogenase 10A9
+AT5G07350.2	Tudor1, AtTudor1, TSN1 - TUDOR-SN protein 1
+AT1G13060.1	PBE1 - 20S proteasome beta subunit E1
+AT3G08530.1	Clathrin, heavy chain
+AT1G45145.1	ATTRX5, ATH5, LIV1, TRX5 - thioredoxin H-type 5
+AT4G19210.1	ATRLI2, RLI2 - RNAse l inhibitor protein 2
+AT4G04800.1	ATMSRB3, MSRB3 - methionine sulfoxide reductase B3
+AT5G20010.1	RAN-1, RAN1, ATRAN1 - RAS-related nuclear protein-1
+AT5G42020.1	BIP, BIP2 - Heat shock protein 70 (Hsp 70) family protein
+AT1G26390.1	FAD-binding Berberine family protein
+AT1G65930.1	cICDH - cytosolic NADP+-dependent isocitrate dehydrogenase
+AT5G23140.1	CLPP2, NCLPP7 - nuclear-encoded CLP protease P7
+AT5G13120.1	ATCYP20-2, CYP20-2 - cyclophilin 20-2
+AT5G65750.1	2-oxoglutarate dehydrogenase, E1 component
+AT3G04000.1	NAD(P)-binding Rossmann-fold superfamily protein
+AT3G02530.1	TCP-1/cpn60 chaperonin family protein
+AT3G60820.1	PBF1 - N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein
+AT5G20250.1	DIN10 - Raffinose synthase family protein
+AT2G29460.1	ATGSTU4, GST22, GSTU4 - glutathione S-transferase tau 4
+AT1G48850.1	EMB1144 - chorismate synthase, putative / 5-enolpyruvylshikimate-3-phosphate phospholyase, putative
+AT3G17240.1	mtLPD2 - lipoamide dehydrogenase 2
+AT4G14800.2	PBD2 - 20S proteasome beta subunit D2
+AT5G49570.1	AtPNG1, PNG1 - peptide-N-glycanase 1
+AT2G22780.1	PMDH1 - peroxisomal NAD-malate dehydrogenase 1
+AT4G32520.1	SHM3, AtSHMT3 - serine hydroxymethyltransferase 3
+AT2G22540.2	SVP, AGL22 - K-box region and MADS-box transcription factor family protein 
+AT1G10140.1	Uncharacterised conserved protein UCP031279
+AT1G28600.1	GDSL-like Lipase/Acylhydrolase superfamily protein
+AT2G16600.2	ROC3 - rotamase CYP 3
+AT1G20260.1	ATPase, V1 complex, subunit B protein
+AT1G20200.1	EMB2719, HAP15 - PAM domain (PCI/PINT associated module) protein
+AT3G48990.1	AMP-dependent synthetase and ligase family protein
+AT3G23570.1	alpha/beta-Hydrolases superfamily protein
+AT3G16480.1	MPPalpha - mitochondrial processing peptidase alpha subunit
+AT1G20630.1	CAT1 - catalase 1
+AT3G07720.1	Galactose oxidase/kelch repeat superfamily protein
+AT5G67360.1	ARA12 - Subtilase family protein
+AT1G69250.2	Nuclear transport factor 2 (NTF2) family protein with RNA binding (RRM-RBD-RNP motifs) domain
+AT4G29010.1	AIM1 - Enoyl-CoA hydratase/isomerase family
+AT1G20510.1	OPCL1 - OPC-8:0 CoA ligase1
+AT1G54010.1	GDSL-like Lipase/Acylhydrolase superfamily protein
+AT5G19220.1	ADG2, APL1 - ADP glucose pyrophosphorylase large subunit 1
+AT1G09010.1	glycoside hydrolase family 2 protein
+AT4G17830.1	Peptidase M20/M25/M40 family protein
+AT1G24180.1	IAR4 - Thiamin diphosphate-binding fold (THDP-binding) superfamily protein
+AT1G76680.2	OPR1 - 12-oxophytodienoate reductase 1
+AT1G76970.1	Target of Myb protein 1
+AT5G50860.1	Protein kinase superfamily protein
+AT1G60420.1	DC1 domain-containing protein
+AT2G17410.1	ARID/BRIGHT DNA-binding domain-containing protein
+AT3G46000.1	ADF2 - actin depolymerizing factor 2
+AT4G19880.1	Glutathione S-transferase family protein
+AT1G72680.1	ATCAD1, CAD1 - cinnamyl-alcohol dehydrogenase
+AT1G09780.1	Phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent
+AT1G08550.1	NPQ1, AVDE1 - non-photochemical quenching 1
+AT1G54100.1	ALDH7B4 - aldehyde dehydrogenase 7B4
+AT1G15200.3	protein-protein interaction regulator family protein
+AT2G47390.1	Prolyl oligopeptidase family protein
+AT3G13235.3	ubiquitin family protein
+AT4G36760.1	ATAPP1, APP1 - aminopeptidase P1
+AT4G24860.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT4G01700.1	Chitinase family protein
+AT1G17230.1	Leucine-rich receptor-like protein kinase family protein
+AT5G63980.1	SAL1, ALX8, ATSAL1, HOS2, FRY1, RON1 - Inositol monophosphatase family protein
+AT1G66700.1	PXMT1 - S-adenosyl-L-methionine-dependent methyltransferases superfamily protein
+AT3G14420.1	Aldolase-type TIM barrel family protein
+AT4G25810.1	XTR6, XTH23 - xyloglucan endotransglycosylase 6
+AT1G07240.1	UGT71C5 - UDP-glucosyl transferase 71C5
+AT2G06050.1	OPR3, DDE1 - oxophytodienoate-reductase 3
+AT5G20890.1	TCP-1/cpn60 chaperonin family protein
+AT5G20830.1	SUS1, ASUS1, atsus1 - sucrose synthase 1
+AT1G27320.1	AHK3, HK3 - histidine kinase 3
+AT5G38150.1	PMI15 - Plant protein of unknown function (DUF827)
+AT1G69410.1	ATELF5A-3, ELF5A-3 - eukaryotic elongation factor 5A-3
+AT3G09500.1	Ribosomal L29 family protein 
+AT1G78830.1	Curculin-like (mannose-binding) lectin family protein
+AT2G30860.2	ATGSTF9, GLUTTR, ATGSTF7, GSTF9 - glutathione S-transferase PHI 9
+AT5G02240.1	NAD(P)-binding Rossmann-fold superfamily protein
+AT2G45790.1	ATPMM, PMM - phosphomannomutase
+AT5G02780.1	GSTL1 - glutathione transferase lambda 1
+AT5G19440.1	NAD(P)-binding Rossmann-fold superfamily protein
+AT3G21670.1	Major facilitator superfamily protein
+AT5G44070.1	CAD1, ARA8, ATPCS1, PCS1 - phytochelatin synthase 1 (PCS1)
+AT2G17190.1	ubiquitin family protein
+AT3G08690.1	UBC11, ATUBC11 - ubiquitin-conjugating enzyme 11
+AT5G55070.1	Dihydrolipoamide succinyltransferase
+AT3G19780.1	unknown protein
+AT1G06130.1	GLX2-4 - glyoxalase 2-4
+AT4G24280.1	cpHsc70-1 - chloroplast heat shock protein 70-1
+AT3G58750.1	CSY2 - citrate synthase 2
+AT5G20080.1	FAD/NAD(P)-binding oxidoreductase
+AT4G33010.1	AtGLDP1, GLDP1 - glycine decarboxylase P-protein 1
+AT3G07630.1	ADT2 - arogenate dehydratase 2
+AT3G13330.1	PA200 - proteasome activating protein 200
+AT5G16510.1	Alpha-1,4-glucan-protein synthase family protein
+AT5G17920.1	ATCIMS, ATMETS, ATMS1 - Cobalamin-independent synthase family protein
+AT2G31670.1	Stress responsive alpha-beta barrel domain protein
+AT1G19130.1	unknown protein
+AT1G04810.1	26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit
+AT1G28350.1	Nucleotidylyl transferase superfamily protein
+AT3G51260.1	PAD1 - 20S proteasome  alpha subunit PAD1
+AT1G63770.1	Peptidase M1 family protein
+AT3G10850.1	GLX2-2, GLY2 - Metallo-hydrolase/oxidoreductase superfamily protein
+AT3G11780.1	MD-2-related lipid recognition domain-containing protein / ML domain-containing protein
+AT5G21040.1	FBX2 - F-box protein 2
+AT5G52240.1	MSBP1, ATMP1, AtMAPR5 - membrane steroid binding protein 1
+AT4G37870.1	PCK1, PEPCK - phosphoenolpyruvate carboxykinase 1
+AT4G20850.1	TPP2 - tripeptidyl peptidase ii
+AT5G64430.1	Octicosapeptide/Phox/Bem1p family protein
+AT1G07780.1	PAI1, TRP6 - phosphoribosylanthranilate isomerase 1
+AT2G05710.1	ACO3 - aconitase 3
+AT5G52560.1	ATUSP, USP - UDP-sugar pyrophosphorylase
+AT5G40580.1	PBB2 - 20S proteasome beta subunit PBB2
+AT3G59760.1	OASC, ATCS-C - O-acetylserine (thiol) lyase isoform C
+AT2G47250.1	RNA helicase family protein
+AT1G07890.1	APX1, MEE6, CS1, ATAPX1, ATAPX01 - ascorbate peroxidase 1
+AT2G31570.1	ATGPX2, GPX2 - glutathione peroxidase 2
+AT3G25770.1	AOC2 - allene oxide cyclase 2
+AT5G60360.1	SAG2, AALP, ALP - aleurain-like protease
+AT3G17810.1	PYD1 - pyrimidine 1
+AT5G05780.1	RPN8A, AE3, ATHMOV34 - RP non-ATPase subunit 8A
+AT5G43940.1	HOT5, ADH2, GSNOR, ATGSNOR1, PAR2 - GroES-like zinc-binding dehydrogenase family protein
+AT2G13640.1	Transcription factor IIS family protein
+AT1G11650.1	ATRBP45B, RBP45B - RNA-binding (RRM/RBD/RNP motifs) family protein
+AT1G56070.1	LOS1 - Ribosomal protein S5/Elongation factor G/III/V family protein
+AT3G12800.1	SDRB, DECR - short-chain dehydrogenase-reductase B
+AT4G01870.1	tolB protein-related
+AT2G36530.1	LOS2, ENO2 - Enolase
+AT4G34230.1	CAD5, ATCAD5, CAD-5 - cinnamyl alcohol dehydrogenase 5
+AT4G34215.1	Domain of unknown function (DUF303) 
+AT1G13440.1	GAPC-2, GAPC2 - glyceraldehyde-3-phosphate dehydrogenase C2
+AT4G05180.1	PSBQ, PSBQ-2, PSII-Q - photosystem II subunit Q-2
+AT3G22200.1	POP2, GABA-T, HER1 - Pyridoxal phosphate (PLP)-dependent transferases superfamily protein
+AT5G37640.1	UBQ9 - ubiquitin 9
+AT5G54430.1	ATPHOS32, PHOS32 - Adenine nucleotide alpha hydrolases-like superfamily protein
+AT2G30970.1	ASP1 - aspartate aminotransferase 1
+AT4G14680.1	APS3 - Pseudouridine synthase/archaeosine transglycosylase-like family protein
+AT5G63620.1	GroES-like zinc-binding alcohol dehydrogenase family protein
+AT1G07140.1	SIRANBP - Pleckstrin homology (PH) domain superfamily protein
+AT1G35720.1	ANNAT1, OXY5, ATOXY5 - annexin 1
+AT4G05160.1	AMP-dependent synthetase and ligase family protein
+AT1G52260.1	ATPDIL1-5, ATPDI3, PDI3, PDIL1-5 - PDI-like 1-5
+AT4G23100.1	RML1, PAD2, GSH1, CAD2, ATECS1, GSHA - glutamate-cysteine ligase
+AT5G28050.1	Cytidine/deoxycytidylate deaminase family protein
+AT4G29810.1	ATMKK2, MKK2, MK1 - MAP kinase kinase 2
+AT5G56680.1	SYNC1, EMB2755, SYNC1 ARATH - Class II aminoacyl-tRNA and biotin synthetases superfamily protein
+AT5G05010.1	clathrin adaptor complexes medium subunit family protein
+AT3G25013.1	Synaptobrevin family protein
+AT1G60690.1	NAD(P)-linked oxidoreductase superfamily protein
+AT4G35260.1	IDH1, IDH-I - isocitrate dehydrogenase 1
+AT5G15970.1	KIN2, COR6.6 - stress-responsive protein (KIN2) / stress-induced protein (KIN2) / cold-responsive protein (COR6.6) / cold-regulated protein (COR6.6)
+AT2G24680.1	transcriptional factor B3 family protein
+AT4G08390.1	SAPX - stromal ascorbate peroxidase
+AT2G36460.1	Aldolase superfamily protein
+AT4G19006.1	Proteasome component (PCI) domain protein
+AT1G10700.1	PRS3 - phosphoribosyl pyrophosphate (PRPP) synthase 3
+AT4G34450.1	coatomer gamma-2 subunit, putative / gamma-2 coat protein, putative / gamma-2 COP, putative
+AT1G78300.1	GRF2, 14-3-3OMEGA, GF14 OMEGA - general regulatory factor 2
+AT1G32380.1	PRS2 - phosphoribosyl pyrophosphate (PRPP) synthase 2
+AT1G33600.1	Leucine-rich repeat (LRR) family protein
+AT3G14210.1	ESM1 - epithiospecifier modifier 1
+AT3G03490.1	PEX19-1, AtPEX19-1 - peroxin 19-1
+AT5G18950.1	Tetratricopeptide repeat (TPR)-like superfamily protein
+AT3G25690.1	CHUP1 - Hydroxyproline-rich glycoprotein family protein
+AT3G01340.1	Transducin/WD40 repeat-like superfamily protein
+AT3G16270.1	ENTH/VHS family protein
+AT1G15520.1	PDR12, ATPDR12, ABCG40, ATABCG40 - pleiotropic drug resistance 12
+AT2G41740.1	VLN2, ATVLN2 - villin 2
+AT4G28000.1	P-loop containing nucleoside triphosphate hydrolases superfamily protein
+AT2G25970.1	KH domain-containing protein
+AT5G63400.1	ADK1 - adenylate kinase 1
+AT3G23600.1	alpha/beta-Hydrolases superfamily protein
+AT4G35450.1	AKR2, AFT, AKR2A - ankyrin repeat-containing protein 2
+AT3G11400.1	EIF3G1, ATEIF3G1 - eukaryotic translation initiation factor 3G1
+ATCG00330.1	RPS14 - chloroplast ribosomal protein S14
+AT2G29700.1	ATPH1, PH1 - pleckstrin homologue 1
+AT4G09000.1	GRF1, GF14 CHI - general regulatory factor 1
+AT5G48300.1	ADG1, APS1 - ADP glucose pyrophosphorylase  1
+AT1G35160.1	GRF4, 14-3-3PHI, GF14 PHI - GF14 protein phi chain
+AT1G30580.1	GTP binding
+AT1G08830.1	CSD1 - copper/zinc superoxide dismutase 1
+AT1G04690.1	KAB1, KV-BETA1 - potassium channel beta subunit 1
+AT1G35420.1	alpha/beta-Hydrolases superfamily protein
+AT2G17130.1	IDH2, IDH-II - isocitrate dehydrogenase subunit 2
+AT3G19040.1	TAF1, TAF1B, HAF2 - histone acetyltransferase of the TAFII250 family 2
+AT5G41670.1	6-phosphogluconate dehydrogenase family protein
+AT1G05350.1	NAD(P)-binding Rossmann-fold superfamily protein
+AT4G14030.1	SBP1 - selenium-binding protein 1
+AT3G18530.1	ARM repeat superfamily protein
+AT2G39080.1	NAD(P)-binding Rossmann-fold superfamily protein
+AT4G37930.1	SHM1, STM, SHMT1 - serine transhydroxymethyltransferase 1
+AT2G39770.1	CYT1, VTC1, SOZ1, EMB101, GMP1 - Glucose-1-phosphate adenylyltransferase family protein
+AT1G80460.1	NHO1, GLI1 - Actin-like ATPase superfamily protein
+AT5G01600.1	ATFER1, FER1 - ferretin 1
+AT2G19760.1	PFN1, PRF1 - profilin 1
+AT3G18060.1	transducin family protein / WD-40 repeat family protein
+AT3G55260.1	HEXO1, ATHEX2 - beta-hexosaminidase 1
+AT4G31300.1	PBA1 - N-terminal nucleophile aminohydrolases (Ntn hydrolases) superfamily protein
+AT4G31180.1	Class II aminoacyl-tRNA and biotin synthetases superfamily protein
+AT4G17100.1	unknown protein
+AT5G19240.1	Glycoprotein membrane precursor GPI-anchored
+AT1G50480.1	THFS - 10-formyltetrahydrofolate synthetase
+AT4G27070.1	TSB2 - tryptophan synthase beta-subunit 2
+AT1G64510.1	Translation elongation  factor EF1B/ribosomal protein S6 family protein
+AT4G30310.2	FGGY family of carbohydrate kinase
+AT4G30910.1	Cytosol aminopeptidase family protein
+AT1G79930.1	HSP91 - heat shock protein 91
+AT4G23850.1	LACS4 - AMP-dependent synthetase and ligase family protein
+AT1G20340.1	DRT112, PETE2 - Cupredoxin superfamily protein
+AT3G22110.1	PAC1 - 20S proteasome alpha subunit C1
+AT3G59920.1	ATGDI2, GDI2 - RAB GDP dissociation inhibitor 2
+AT3G57870.1	AHUS5, EMB1637, SCE1, SCE1A, ATSCE1 - sumo conjugation enzyme 1
+AT1G10670.1	ACLA-1 - ATP-citrate lyase A-1
+AT1G07920.1	GTP binding Elongation factor Tu family protein
+AT4G38800.1	ATMTN1, ATMTAN1, MTN1, MTAN1 - methylthioadenosine nucleosidase 1
+AT3G02760.1	Class II aaRS and biotin synthetases superfamily protein
+AT2G43790.1	ATMPK6, MPK6, MAPK6, ATMAPK6 - MAP kinase 6

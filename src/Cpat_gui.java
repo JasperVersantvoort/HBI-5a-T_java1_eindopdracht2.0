@@ -1,7 +1,7 @@
 /**
  * @author Jasper Versantvoort
- * @studentennummer 634664
- * @date 06-11-2020
+ * studentennummer 634664
+ * datum 06-11-2020
  */
 
 
@@ -38,7 +38,7 @@ public class Cpat_gui {
 
     public Cpat_gui() {
         /**
-         * @functie de files worden gelezen, file1 kijk per regel of de protein code in file 2 zit.
+         * functie: de files worden gelezen, file1 kijk per regel of de protein code in file 2 zit.
          * Wanneer dit zo is wordt dit opgeslagen
          * uiteindelijke worden de overlappingen, en de unieke regels gevisualiseerd met behulp van ovalen.
          * @exception wanneer het bestand niet gevonden kan worden wordt er een fileNotFoundException gegeven
@@ -69,7 +69,7 @@ public class Cpat_gui {
             @Override
             public void actionPerformed(ActionEvent e) {
                 /**
-                 * @functie Laat je een bestand kiezen deze wordt in geefBestandTextField1 geplaatst
+                 * functie: Laat je een bestand kiezen deze wordt in geefBestandTextField1 geplaatst
                  */
                 File selectedFile;
                 JFileChooser fileChooser = new JFileChooser();
@@ -85,7 +85,7 @@ public class Cpat_gui {
             @Override
             public void actionPerformed(ActionEvent e) {
                 /**
-                 * @functie de aantal overeenkomende en unieke protein codes worden berekend.
+                 * functie: de aantal overeenkomende en unieke protein codes worden berekend.
                  * Daarna wordt dit gevisualiseerd
                  * @exception wanneer het bestand niet gevonden kan worden wordt er een fileNotFoundException gegeven
                  * @exception wanneer een protein code niet begint met 'AT' wordt er een NotValidProteinCode exception gegeven
